@@ -1,0 +1,14 @@
+body{
+    border: 0;
+    background-color: black;
+}
+.baner img{
+    width: 100%;
+
+}
+.caixa{
+    display: flex;
+    flex-direction: row;
+    
+
+}
